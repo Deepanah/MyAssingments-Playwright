@@ -1,1 +1,1 @@
-# MyHomeAssingments-Playwright
+# MyHomeAssingments-Playwright-JavaScript
